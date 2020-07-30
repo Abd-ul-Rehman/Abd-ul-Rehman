@@ -5,5 +5,5 @@
 
 - 🔭 I’m a full stack developer.
 - 🌱 I’m currently learning cloud-computing.
-- 💬 Ask me about Django and Angular on Linkdin and i will help you out. Follow me there for updated
+- 💬 Ask about Django and Angular on Linkdin and i will help you out. Follow me there for update
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abdul-rehman-66017383/">Linkdin</a>
